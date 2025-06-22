@@ -1,8 +1,8 @@
 ### Hi everyone its Rohit 👋
     
-   - 🔭 I’m currently working on Machine Learning / Deep Learning.
-   - 🌱 I’m currently learning Deep Learning / NLP.
-   - 👯 I’m looking actively for Internship in Machine Learning
+   - 🔭 I’m currently working as a Fullstack Developer.
+   - 🌱 I’m currently learning new Tech.
+   - 👯 I teach tech related to backend, frontend, and cloud technologies.
    - 📫 How to reach me: https://www.linkedin.com/in/rohit-ranjan-singh-463512125/
    
 
